@@ -55,7 +55,7 @@ const hairstyleImages = [
   },
   {
     id: 12,
-    url: '/images/190403 2024-09-18 מסר.JPG',
+    url: '/images/צילום מסך 2024-09-18 190403.png',
     alt: 'מסר עיצוב 12'
   }
 ];
