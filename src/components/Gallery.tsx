@@ -2,68 +2,64 @@ import React from 'react';
 
 const Gallery = () => {
   // התמונות האמיתיות של לאה סאליקוב
-  const hairstyleImages = [
-    {
-      id: 1,
-      url: 'https://drive.google.com/uc?export=view&id=165TSB8-a0mV9e1Z7sFLVlAqZwDDfmLUd',
-      alt: 'עבודת עיצוב שיער מקצועית 1'
-    },
-    {
-      id: 2,
-      url: 'https://drive.google.com/uc?export=view&id=1rxy_WybADWPPpanYTY-l9BnJMwAyDRFt',
-      alt: 'עבודת עיצוב שיער מקצועית 2'
-    },
-    {
-      id: 3,
-      url: 'https://drive.google.com/uc?export=view&id=1Yr_OcJGpgdnhjDkMdGn895kcUwXntvmQ',
-      alt: 'עבודת עיצוב שיער מקצועית 3'
-    },
-    {
-      id: 4,
-      url: 'https://drive.google.com/uc?export=view&id=1BNkxDSb_kKMX-AEhAoHIdrXpCvviAagz',
-      alt: 'עבודת עיצוב שיער מקצועית 4'
-    },
-    {
-      id: 5,
-      url: 'https://drive.google.com/uc?export=view&id=1oDGw_28fmDFSmNg3he6wdr2wjRjvM9kk',
-      alt: 'עבודת עיצוב שיער מקצועית 5'
-    },
-    {
-      id: 6,
-      url: 'https://drive.google.com/uc?export=view&id=140srPeYAsJj5riJ3T1iBOZ-rvgPO_PHO',
-      alt: 'עבודת עיצוב שיער מקצועית 6'
-    },
-    {
-      id: 7,
-      url: 'https://drive.google.com/uc?export=view&id=1_nI7wQ59W005CrRnrL06RMmpcuxTFY2U',
-      alt: 'עבודת עיצוב שיער מקצועית 7'
-    },
-    {
-      id: 8,
-      url: 'https://drive.google.com/uc?export=view&id=1N3e6ZnI1chHc4iAhtNNmV0RxJI0dD2k7',
-      alt: 'עבודת עיצוב שיער מקצועית 8'
-    },
-    {
-      id: 9,
-      url: 'https://drive.google.com/uc?export=view&id=1uIbwNn1EsveCeeEVEKFL0PABFThiN1mk',
-      alt: 'עבודת עיצוב שיער מקצועית 9'
-    },
-    {
-      id: 10,
-      url: 'https://drive.google.com/uc?export=view&id=12AlXEnaV-DesBknU68hGKTSmjr-eRVLJ',
-      alt: 'עבודת עיצוב שיער מקצועית 10'
-    },
-    {
-      id: 11,
-      url: 'https://drive.google.com/uc?export=view&id=1ZkksGJeDF_zie7Sz5pcHmFwxFbDvZJll',
-      alt: 'עבודת עיצוב שיער מקצועית 11'
-    },
-    {
-      id: 12,
-      url: 'https://drive.google.com/uc?export=view&id=1xJ8RD7bTmmv9qFkdFbGxYckuFYfzp_I_',
-      alt: 'עבודת עיצוב שיער מקצועית 12'
-    }
-  ];
+const hairstyleImages = [
+  {
+    id: 1,
+    url: '/images/DSCN5808.JPG',
+    alt: 'עבודת עיצוב שיער מקצועית 1'
+  },
+  {
+    id: 2,
+    url: '/images/DSCN5809.JPG',
+    alt: 'עבודת עיצוב שיער מקצועית 2'
+  },
+  {
+    id: 3,
+    url: '/images/DSCN5811.JPG',
+    alt: 'עבודת עיצוב שיער מקצועית 3'
+  },
+  {
+    id: 4,
+    url: '/images/DSCN9207.JPG',
+    alt: 'עבודת עיצוב שיער מקצועית 4'
+  },
+  {
+    id: 5,
+    url: '/images/DSCN9209.JPG',
+    alt: 'עבודת עיצוב שיער מקצועית 5'
+  },
+  {
+    id: 6,
+    url: '/images/DSCN9210.JPG',
+    alt: 'עבודת עיצוב שיער מקצועית 6'
+  },
+  {
+    id: 7,
+    url: '/images/DSCN9213.JPG',
+    alt: 'עבודת עיצוב שיער מקצועית 7'
+  },
+  {
+    id: 8,
+    url: '/images/DSCN9214.JPG',
+    alt: 'עבודת עיצוב שיער מקצועית 8'
+  },
+  {
+    id: 9,
+    url: '/images/DSCN92126789.JPG',
+    alt: 'עבודת עיצוב שיער מקצועית 9'
+  },
+  {
+    id: 10,
+    url: '/images/מוברש אחורי.JPG',
+    alt: 'עיצוב מוברש אחורי'
+  },
+  {
+    id: 12,
+    url: '/images/190403 2024-09-18 מסר.JPG',
+    alt: 'מסר עיצוב 12'
+  }
+];
+
 
   return (
     <section className="py-16 px-4">
