@@ -56,7 +56,7 @@ const hairstyleImages = [
     {
     id: 11,
     url: '/images/MOOVRASHH.JPG',
-    alt: 'עיצוב מוברש אחורי'
+    alt: 'עיצוב מוברש'
   },
   {
     id: 12,
