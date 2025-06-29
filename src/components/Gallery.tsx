@@ -50,13 +50,8 @@ const hairstyleImages = [
   },
   {
     id: 10,
-    url: '/images/MOOVRASH.JPG',
+    url: '/images/מוברש אחורי.JPG',
     alt: 'עיצוב מוברש אחורי'
-  },
-    {
-    id: 11,
-    url: '/images/MOOVRASHH.JPG',
-    alt: 'עיצוב מוברש'
   },
   {
     id: 12,
