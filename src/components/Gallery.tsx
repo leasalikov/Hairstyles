@@ -9,7 +9,7 @@ const hairstyleImages = [
   },
   {
     id: 2,
-    url: '/git status/2.JPG',
+    url: '/images/2.JPG',
     alt: 'עבודת עיצוב שיער מקצועית 2'
   },
   {
