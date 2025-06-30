@@ -44,16 +44,21 @@ const hairstyleImages = [
   },
   {
     id: 9,
-    url: '/images/10.JPG',
+    url: '/images/9.JPG',
     alt: 'עיצוב מוברש אחורי'
   },
     {
     id: 10,
+    url: '/images/10.JPG',
+    alt: 'עיצוב מוברש אחורי'
+  },
+    {
+    id: 11,
     url: '/images/11.JPG',
     alt: 'עיצוב מוברש אחורי'
   },
   {
-    id: 11,
+    id: 12,
     url: '/images/A.png',
     alt: 'מסר עיצוב 12'
   }
