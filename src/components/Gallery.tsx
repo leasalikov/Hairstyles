@@ -45,7 +45,7 @@ const hairstyleImages = [
   {
     id: 9,
     url: '/images/9.JPG',
-    alt: 'עיצוב מוברש אחורי'
+    alt: 'עיצוב קוקו '
   },
     {
     id: 10,
@@ -55,7 +55,7 @@ const hairstyleImages = [
     {
     id: 11,
     url: '/images/11.JPG',
-    alt: 'עיצוב מוברש אחורי'
+    alt: 'עיצוב מוברש '
   },
   {
     id: 12,
