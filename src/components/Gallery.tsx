@@ -1,61 +1,65 @@
 import React from 'react';
 
 const Gallery = () => {
-  // התמונות האמיתיות של לאה סאליקוב
 const hairstyleImages = [
   {
     id: 1,
-    url: '/images/DSCN5808.JPG',
+    url: '/images/1.JPG',
     alt: 'עבודת עיצוב שיער מקצועית 1'
   },
   {
     id: 2,
-    url: '/images/DSCN5809.JPG',
+    url: '/images/2.JPG',
     alt: 'עבודת עיצוב שיער מקצועית 2'
   },
   {
     id: 3,
-    url: '/images/DSCN5811.JPG',
+    url: '/images/3.JPG',
     alt: 'עבודת עיצוב שיער מקצועית 3'
   },
   {
     id: 4,
-    url: '/images/DSCN9207.JPG',
+    url: '/images/4.JPG',
     alt: 'עבודת עיצוב שיער מקצועית 4'
   },
   {
     id: 5,
-    url: '/images/DSCN9209.JPG',
+    url: '/images/5.JPG',
     alt: 'עבודת עיצוב שיער מקצועית 5'
   },
   {
     id: 6,
-    url: '/images/DSCN9210.JPG',
+    url: '/images/6.JPG',
     alt: 'עבודת עיצוב שיער מקצועית 6'
   },
   {
     id: 7,
-    url: '/images/DSCN9213.JPG',
+    url: '/images/7.JPG',
     alt: 'עבודת עיצוב שיער מקצועית 7'
   },
   {
     id: 8,
-    url: '/images/DSCN9214.JPG',
+    url: '/images/8.JPG',
     alt: 'עבודת עיצוב שיער מקצועית 8'
   },
   {
     id: 9,
-    url: '/images/DSCN92126789.JPG',
+    url: '/images/9.JPG',
     alt: 'עבודת עיצוב שיער מקצועית 9'
   },
   {
     id: 10,
-    url: '/images/מוברש אחורי.JPG',
+    url: '/images/10.JPG',
+    alt: 'עיצוב מוברש אחורי'
+  },
+    {
+    id: 11,
+    url: '/images/11.JPG',
     alt: 'עיצוב מוברש אחורי'
   },
   {
     id: 12,
-    url: '/images/צילום מסך 2024-09-18 190403.png',
+    url: '/images/A.png',
     alt: 'מסר עיצוב 12'
   }
 ];
